@@ -11,6 +11,7 @@ int main(){
 
             int n=4;
             PrintName(n);
+            cout<<"Name Succesfully Print"<<endl;
 
      return 0;
 
